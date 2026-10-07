@@ -1,0 +1,2 @@
+Model,C,Class Weight,Test Accuracy,Test Macro F1,Test Weighted F1
+Linear SVM,0.5,balanced,0.8925,0.8510746781416129,0.8940101368403645
